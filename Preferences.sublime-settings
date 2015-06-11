@@ -1,0 +1,31 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by file type specific settings.
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Base16/base16-tomorrow.dark.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"target",
+		".settings",
+		"node_modules"
+	],
+	//"font_face": "InputMono",
+	//"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"scala_worksheet_sync_views": false,
+	"scroll_speed": 0.5,
+	"show_panel_on_build": false,
+	"trim_trailing_white_space_on_save": true
+}
