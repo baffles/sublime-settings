@@ -1,9 +1,7 @@
-// Settings in here override those in "Default/Preferences.sublime-settings",
-// and are overridden in turn by file type specific settings.
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Base16/base16-tomorrow.dark.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -14,8 +12,7 @@
 		".settings",
 		"node_modules"
 	],
-	//"font_face": "InputMono",
-	//"font_size": 9,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -26,6 +23,10 @@
 	"line_padding_top": 1,
 	"scala_worksheet_sync_views": false,
 	"scroll_speed": 0.5,
+	"show_encoding": true,
+	"show_line_endings": true,
 	"show_panel_on_build": false,
+	"skin": "ayu/ayu dark",
+	"theme": "ayu-dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }

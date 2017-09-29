@@ -1,0 +1,6 @@
+[
+	{ "keys": ["super+alt+l"], "command": "list_sbt_errors" },
+	{ "keys": ["super+alt+n"], "command": "next_sbt_error" },
+	{ "keys": ["super+alt+c"], "command": "sbt", "args": { "command": "compile" } },
+	{ "keys": ["super+alt+r"], "command": "sbt", "args": { "command": "container:restart" } }
+]

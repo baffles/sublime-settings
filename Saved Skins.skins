@@ -1,0 +1,11 @@
+{
+	"Solarized Dark (mine)":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+			"font_size": 12,
+			"theme": "Solarized Space Dark.sublime-theme"
+		}
+	}
+}

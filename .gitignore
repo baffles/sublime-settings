@@ -1,5 +1,11 @@
+.DS_Store
+
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.*-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
+
 *.cache
-*.last-run
-*.ca-bundle
-*.*-ca-bundle
-*.ca-certs/
+oscrypto-ca-bundle.crt

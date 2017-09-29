@@ -1,9 +1,18 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"ayu",
 		"BracketHighlighter",
 		"GitGutter",
-		"Markdown Preview",
-		"Package Control"
+		"Package Control",
+		"Skins",
+		"Solarized Color Scheme",
+		"SublimeSBT",
+		"Theme - Solarized Flat",
+		"Theme - Solarized Space"
 	]
 }
